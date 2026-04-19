@@ -1,25 +1,63 @@
 <h1 align="center">Hi 👋, I'm Glenn Michael L. Orlanes</h1>
-<h3 align="center">A BSIT-1 Student from Cebu Institute of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sc3t1c&label=Profile%20views&color=0e75b6&style=flat" alt="sc3t1c" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sc3t1c" alt="sc3t1c" /></a> </p>
-
-- 🔭 I’m currently working on **Myself and my skills**
-
-- 🌱 I’m currently learning **anything I want to learn**
-
-- 📫 How to reach me **glennmichael.orlanes@cit.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/me.is.glennorlanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.is.glennorlanes" height="30" width="40" /></a>
-<a href="https://instagram.com/cigglen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cigglen" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Future+React+Developer;Building+Projects+and+Skills;Consistency+beats+intensity" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="center">BSIT-1 Student • Cebu Institute of Technology</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sc3t1c&show_icons=true&locale=en&layout=compact" alt="sc3t1c" /></p>
+<p align="center">
+  💻 Aspiring Developer • ⚛️ React in progress • 🎓 College Survivor
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sc3t1c&show_icons=true&locale=en" alt="sc3t1c" /></p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sc3t1c&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sc3t1c&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </a>
+</p>
+
+---
+
+## ⚡ About Me
+
+- 🔭 Currently working on **myself and my skills**
+- 🌱 Learning **whatever sparks my interest (React is the main target)**
+- 🎯 Focused on building consistency and real projects
+- 📫 Reach me at **glennmichael.orlanes@cit.edu**
+
+---
+
+## 🚀 Goals
+
+- 🔨 Build more **React apps** (and actually finish them)
+- 🎓 Finish college *(lol… but seriously)*
+- 🧠 Master **something valuable**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+```javascript
+while (!success) {
+  learn();
+  build();
+  improve();
+}
