@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm [Your Name]
 
-<!--
-**SC3T1C/SC3T1C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring developer | 🚀 React enthusiast in progress | 🎓 Still surviving college (somehow)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- 🌱 Currently learning and building with **React**
+- 🛠️ Love turning ideas into simple, clean web apps
+- 🎯 Trying to get 1% better every day (or at least most days)
+- 😄 Debugging is my cardio
+
+---
+
+## 🧰 Tech Stack
+
+```txt
+C        ███████░░░░
+HTML     ██████████
+CSS      █████████░
+JavaScript ████████░░
+React    ███████░░░░
