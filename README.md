@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sc3t1c&theme=tokyonight&no-frame=true&row=1&column=6" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sc3t1c&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
@@ -27,7 +25,7 @@
 ## ⚡ About Me
 
 - 🔭 Currently working on **myself and my skills**
-- 🌱 Learning **whatever sparks my interest (React + exploring Cyber Security)**
+- 🌱 Learning **React + exploring Cyber Security**
 - 🎯 Focused on building consistency and real projects
 - 📫 Reach me at **glennmichael.orlanes@cit.edu**
 
@@ -44,20 +42,21 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-
-  <!-- Added -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
 </p>
+
+---
+
+<p align="center"> <a href="https://github.com/sc3t1c"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> </a> <a href="https://fb.com/me.is.glennorlanes"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/> </a> <a href="https://instagram.com/cigglen"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/> </a> </p>
 
 ---
 
