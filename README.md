@@ -1,16 +1,12 @@
-<!-- 🔥 Gradient Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E90FF&height=200&section=header&text=Glenn%20Michael%20L.%20Orlanes&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h2 align="center">Hi 👋</h2>
+<h1 align="center">Hi 👋, I'm Glenn Michael L. Orlanes</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Interested+in+Cyber+Security;Aspiring+Developer;Surviving+College;Building+Projects+and+Skills" />
 </p>
 
+<h3 align="center">BSIT-1 Student • Cebu Institute of Technology</h3>
+
 <p align="center">
-  BSIT-1 Student • Cebu Institute of Technology <br/>
   💻 Aspiring Developer • ⚛️ React in progress • 🎓 College Survivor
 </p>
 
@@ -61,10 +57,6 @@
 ---
 
 <p align="center"> <a href="https://github.com/sc3t1c"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> </a> <a href="https://fb.com/me.is.glennorlanes"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/> </a> <a href="https://instagram.com/cigglen"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/> </a> </p>
-
----
-
-<p align="center"> <img src="https://raw.githubusercontent.com/sc3t1c/sc3t1c/output/github-contribution-grid-snake.svg" /> </p>
 
 ---
 
