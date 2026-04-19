@@ -7,7 +7,7 @@
 <h3 align="center">BSIT-1 Student • Cebu Institute of Technology</h3>
 
 <p align="center">
-  💻 Aspiring Developer • ⚛️ React in progress • 🎓 College Survivor
+  💻 Aspiring Developer • ⚛️ React in progress • 🎓 Surviving College
 </p>
 
 ---
