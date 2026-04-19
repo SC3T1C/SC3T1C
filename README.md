@@ -16,10 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=sc3t1c&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sc3t1c&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
 ---
 
 ## ⚡ About Me
